@@ -180,7 +180,7 @@ fun ProfileScreen() {
             modifier = Modifier.fillMaxWidth(),
             shape = RoundedCornerShape(12.dp)
         ) {
-            Text(if (showExtraDetails) "Sembunyikan Info Tambahan" else "Lihat Info Tambahan (+10% Bonus)")
+            Text(if (showExtraDetails) "Sembunyikan Info Tambahan" else "Lihat Info Tambahan")
         }
 
         AnimatedVisibility(

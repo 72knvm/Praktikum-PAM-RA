@@ -17,3 +17,11 @@
    - Fitur dynamic theme switching yang disimpan di dalam `ProfileViewModel` dan merender `darkColorScheme` vs `lightColorScheme`.
 4. **Bonus (+10%)**:
    - Transisi animasi state yang halus, Material 3 modern theme color tokens, dan expandable detail akademik.
+
+---
+
+## Dokumentasi & Preview Tampilan
+
+| Light Mode | Dark Mode | Edit Profil (MVVM State) |
+|:---:|:---:|:---:|
+| ![Light Mode](screenshots/1_light_mode.png) | ![Dark Mode](screenshots/2_dark_mode.png) | ![Edit Profil](screenshots/3_edit_profile.png) |

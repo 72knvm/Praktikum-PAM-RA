@@ -16,3 +16,11 @@
    - `InfoItemCard`
    - `SkillBadge`
 6. **Bonus**: Implementasi `AnimatedVisibility` (fade-in / fade-out) untuk toggle informasi akademik tambahan.
+
+---
+
+## Dokumentasi & Preview Tampilan
+
+| Tampilan Utama Profil | Info Tambahan (AnimatedVisibility) |
+|:---:|:---:|
+| ![Tampilan Utama](screenshots/1_profile_main.png) | ![Info Tambahan](screenshots/2_profile_expanded.png) |

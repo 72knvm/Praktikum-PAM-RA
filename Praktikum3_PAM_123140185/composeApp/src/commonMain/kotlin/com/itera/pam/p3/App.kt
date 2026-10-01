@@ -202,7 +202,7 @@ fun ProfileScreen() {
                         color = MaterialTheme.colorScheme.onPrimaryContainer
                     )
                     Text(
-                        text = "• Semester: 4 / 5\n• Target: Lulus Tepat Waktu dengan IPK Terbaik & Menguasai Mobile Development",
+                        text = "• Semester: 7\n• Target: Lulus Tepat Waktu dengan IPK Terbaik & Menguasai Mobile Development",
                         style = MaterialTheme.typography.bodyMedium,
                         color = MaterialTheme.colorScheme.onPrimaryContainer
                     )
